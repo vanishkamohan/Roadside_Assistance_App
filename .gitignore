@@ -1,6 +1,7 @@
 # Gradle files
 Android_App/.gradle/
 Android_App/node_modules
+
 build/
 
 # Local configuration file (sdk path, etc)
